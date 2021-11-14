@@ -1,0 +1,11 @@
+albumentations
+keras
+matplotlib
+numpy
+opencv-python
+pandas
+scikit-learn
+seaborn
+tensorflow>=2.3.0
+tqdm
+typeguard
