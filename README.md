@@ -1,4 +1,4 @@
-# Generative Dog Images with DCGAN and BigGan
+# Generative Dog Images with DCGAN and BigGAN
 
 This is the project for the course of Vision and Perception (A.Y. 2019/2020). 
 The project consists in implementing a Generative Adversarial Network (GAN) for image generation, specifically for dog image generation.
