@@ -1,1 +1,1 @@
-# Generative-Dog-Images-with-BigGan
+# Generative Dog Images with BigGan
